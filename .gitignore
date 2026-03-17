@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Database file — no need to push this
+*.db
+
+# Virtual environment
+venv/
+.env
+
+# Mac junk
+.DS_Store
+
+# Logs
+*.log
